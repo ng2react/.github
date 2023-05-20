@@ -2,7 +2,7 @@
 
 AngularJS to React (Ng2React) is a GPT-powered tool for converting AngularJS components to React.
 
-[Read the Docs](https://ng2react.readthedocs.io/en/latest/)
+[Read the Docs](https://ng2react.readthedocs.io/en/latest/) | [Get the VSCode Extension](https://marketplace.visualstudio.com/items?itemName=maxbilbow.ng2react-vscode&ssr=false#overview)
 <!--
 
 **Here are some ideas to get you started:**
